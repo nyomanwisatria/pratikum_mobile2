@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177603791854",
+    "project_id": "latihan-22312007",
+    "storage_bucket": "latihan-22312007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177603791854:android:38163993cf2593d57f1cff",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaet-WxLzJ2qhlf8ezxFNyLOj3o_9qqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177603791854:android:713d48c5f8d55d547f1cff",
+        "android_client_info": {
+          "package_name": "com.wisatria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaet-WxLzJ2qhlf8ezxFNyLOj3o_9qqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
